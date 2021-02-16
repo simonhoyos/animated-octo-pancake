@@ -4,3 +4,4 @@ Make it Real example
 
 - init
 - clone
+- fetch
